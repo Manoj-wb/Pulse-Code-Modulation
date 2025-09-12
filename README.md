@@ -136,7 +136,6 @@ plt.show()
 <img width="1203" height="590" alt="image" src="https://github.com/user-attachments/assets/c135a9c0-ce66-4cbd-bcb0-5e6ed6838b4d" />
 
 # Results
-```
-Attach the output waveform
-```
-# Hardware experiment output waveform.
+Thus, Pulse Code Modulation (PCM) with quantisation, modulation, and demodulation was obtained and the output waveforms were verified.
+
+Thus, Delta Modulation and its corresponding demodulation with low-pass filtering were obtained and the output waveforms were verified.

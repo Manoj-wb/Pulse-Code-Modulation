@@ -3,7 +3,7 @@
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
 # Tools required
 # Program
-```
+
 #PCM
 import numpy as np
 import matplotlib.pyplot as plt
@@ -126,7 +126,7 @@ plt.legend()
 plt.grid()
 plt.tight_layout()
 plt.show()
-```
+
 # Output Waveform
 
 #PCM
